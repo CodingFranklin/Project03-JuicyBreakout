@@ -3,7 +3,7 @@ This is an exercise of implementing some features in unity in order to make the 
 2025/3/2
 
 ## Implementation
-_Changing the colors and sprites_: Instead of randomly assigning colors for the bricks, I changed their sprites with the sprites from the Kenny Brick Pack.
+**_Changing the colors and sprites_**: Instead of randomly assigning colors for the bricks, I changed their sprites with the sprites from the Kenny Brick Pack.
 
 _Squeeze and stretch_: The ball will be squeezed and stretched a bit while hitting bricks, walls, and the paddle.
 
